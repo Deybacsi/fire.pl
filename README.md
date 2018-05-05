@@ -1,7 +1,7 @@
 # fire.pl
 A small text fire effect in perl :)
 
-# Requirements
+### Requirements
 
 Perl
 
@@ -10,7 +10,7 @@ Modules:
 - Term/Readkey
 - Time/Hires
 
-#  Installation
+### Installation
 
 ```
 sudo cpan Term::ANSIScreen
@@ -18,10 +18,10 @@ sudo cpan Term::ReadKey
 sudo cpan Time::HiRes
 ```
 
-# How to use
+### How to use
 
 Just run with `./fire.pl` or `./fire2.pl`
 
-# Public Domain
+### Public Domain
 
 You can use it freely. :) Give me a credit, if you think :)
